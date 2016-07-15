@@ -1,6 +1,6 @@
 # Acrylic-DNS-Proxy-GUI
 
-Acrylic DNS Proxy 的GUI版本（这里只帖配置和部份HOSTS）
+Acrylic DNS Proxy 的GUI版本（这里只帖程序+配置+部份HOSTS）
 
 卡饭发布：http://bbs.kafan.cn/thread-2039048-1-1.html
 
