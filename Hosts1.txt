@@ -1,7 +1,5 @@
-# 更新日期：2016-07-12 #
+# 更新日期：2016-07-26 #
 # 不再提供脸书和推的HOSTS，请自行寻找替换！
-# 大部分国人并没有独立的思维，他们不会思考，盲目跟风，盲目“爱国”，翻出去又有什么用，除了丢人之外没别的！
-# 被洗脑的人绝对是恐怖的，请远离它们！！！
 #
 # Apkpure start
 108.163.178.42    apkpure.com
@@ -377,10 +375,10 @@
 192.0.79.32       code.flickr.com
 # Yahoo end
 # Dropbox start
-162.125.66.1      m.dropbox.com
-162.125.66.1      www.dropbox.com
-162.125.66.1      dropbox.com             #
-162.125.66.1      www.v.dropbox.com       #
+162.125.80.1      m.dropbox.com
+162.125.80.1      www.dropbox.com
+162.125.80.1      dropbox.com             #
+162.125.80.1      www.v.dropbox.com       #
 108.160.172.193   d.dropbox.com
 108.160.172.193   d.v.dropbox.com
 108.160.172.193   api-d.dropbox.com
